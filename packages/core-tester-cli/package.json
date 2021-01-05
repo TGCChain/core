@@ -46,7 +46,7 @@
         "@oclif/config": "^1.12.6",
         "@oclif/plugin-help": "^2.1.6",
         "@oclif/plugin-not-found": "^1.2.2",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "bip39": "^2.5.0",
         "clipboardy": "^1.2.3",
         "delay": "^4.1.0",
